@@ -31,7 +31,7 @@ Hi, I'm Shubham Goswmai, a Full Stack Developer 🚀 from India, currently, I'm 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Product-Search](https://github.com/shubham2704);
+- 👨🏽‍💻 I’m currently working on [Product-Search](https://github.com/shubham2704/product-search);
 - 🌱 I’m currently learning Machine Learning; 
 - 👯 I’m looking to collaborate on [codeezzi](https://github.com/codeezzi) 🤝;
 - 💬 Ask me about anything, I am happy to help;
