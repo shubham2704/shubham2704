@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Shubham Goswmai, a Full Stack Developer 🚀 from India, currently, I'm working with 🙍🏽‍♂️ [@codeezzi](https://github.com/codeezzi), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/). Beside's programming, I enjoy football, video games and chess.
+Hi, I'm Shubham Goswmai, a Full Stack Developer 🚀 from India, currently, I'm working on 🙍🏽‍♂️ [@codeezzi](https://github.com/codeezzi), Software Developer 👨🏽‍💻 [@V3IT Consulting](https://www.v3it.com/). Beside's programming, I enjoy football, video games and chess.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
