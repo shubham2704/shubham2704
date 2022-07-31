@@ -54,7 +54,6 @@ Hi, I'm Shubham Goswmai, a Full Stack Developer 🚀 from India, currently, I'm 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<!--
 ![shubham's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
 
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
@@ -67,7 +66,7 @@ Hi, I'm Shubham Goswmai, a Full Stack Developer 🚀 from India, currently, I'm 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
 </a>
--->
+
 
 
 
